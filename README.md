@@ -44,13 +44,7 @@ I work at the intersection of **computational chemistry, catalysis, and data sci
 
 ---
 
-## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onepartho&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onepartho&layout=compact)
-
----
 
 ## 🚀 Featured Projects
 
