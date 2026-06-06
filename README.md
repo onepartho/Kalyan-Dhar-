@@ -6,6 +6,21 @@
 ## 🔬 About Me
 
 I work at the intersection of **computational chemistry, catalysis, and data science**, focusing on building physically interpretable models for reaction systems and materials design.
+---
+Research Profile 
+
+<p align="center">
+
+<a href="https://orcid.org/0000-0003-4265-3600">
+  <img src="https://img.shields.io/badge/ORCID-0000--0003--4265--3600-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=0BbshI8AAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
+</p>
+---
 
 - 🧪 Research: Heterogeneous catalysis, reaction mechanisms, adsorption energetics  
 - 🧠 Focus: Machine learning for chemical systems & descriptor-based modeling  
@@ -64,4 +79,4 @@ Publication-quality figure generation tools for heatmaps, volcano plots, and rea
 ```text
 DFT Calculations → Feature Engineering → ML Models → Reaction Prediction → Visualization → Publication
 problem definition → mechanistic understanding → material/process design → validation → deployment + optimization.
-Problem → EDL physics → Feature engineering → Dataset → ML/DL model → Physics-informed hybrid → Optimization → Experiment → Digital twin
+Problem → EDL physics → Feature engineering → Dataset → ML/DL model → Physics-informed hybrid → Optimization → Experiment → Digital twiML
