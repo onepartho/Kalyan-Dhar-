@@ -1,117 +1,71 @@
-Hi, I'm Kalyan Dhar
-
-Computational Scientist | Catalysis | Data-Driven Modeling | Scientific ML
-
+# Hi, I'm Kalyan Dhar 👋
+### Computational Scientist | Catalysis | Data-Driven Modeling | Scientific ML
 
 ---
 
-About Me
+## 🔬 About Me
 
-I work at the intersection of computational chemistry, catalysis, and data science, focusing on building physically interpretable models for reaction systems and materials design.
+I work at the intersection of **computational chemistry, catalysis, and data science**, focusing on building physically interpretable models for reaction systems and materials design.
 
-🧪 Research: Heterogeneous catalysis, reaction mechanisms, adsorption energetics
-
-🧠 Focus: Machine learning for chemical systems & descriptor-based modeling
-
-📊 Methods: Density Functional Theory (DFT), statistical learning, reaction networks
-
-💻 Tools: Python, NumPy, pandas, scikit-learn, ASE, RDKit, VASP, LAMMPS
-
-
+- 🧪 Research: Heterogeneous catalysis, reaction mechanisms, adsorption energetics  
+- 🧠 Focus: Machine learning for chemical systems & descriptor-based modeling  
+- 📊 Methods: Density Functional Theory (DFT), statistical learning, reaction networks  
+- 💻 Tools: Python, NumPy, pandas, scikit-learn, ASE, RDKit, VASP, LAMMPS  
 
 ---
 
-⚙️ Research Interests
+## ⚙️ Research Interests
 
-Catalytic reaction energy landscapes
-
-Descriptor-based materials screening
-
-Data-driven reaction mechanism discovery
-
-Multi-scale modeling of catalytic systems
-
-Scientific visualization for high-impact publications
-
-
+- Catalytic reaction energy landscapes  
+- Descriptor-based materials screening  
+- Data-driven reaction mechanism discovery  
+- Multi-scale modeling of catalytic systems  
+- Scientific visualization for high-impact publications  
 
 ---
 
-🧰 Technical Skills
+## 🧰 Technical Skills
 
-Programming & Data Science
+### Programming & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 
+### Scientific Computing
+![DFT](https://img.shields.io/badge/DFT-Physics-blue?style=for-the-badge)
+![ASE](https://img.shields.io/badge/Atomic%20Simulation%20Environment-4B8BBE?style=for-the-badge)
+![LAMMPS](https://img.shields.io/badge/LAMMPS-Molecular%20Dynamics-orange?style=for-the-badge)
 
-
-
-
-
-Scientific Computing
-
-
-
-
-
-Visualization
-
-
-
-
-
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
 
 ---
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-Featured Projects
+## 🚀 Featured Projects
 
-🔹 Reaction Energy Modeling Pipeline
-
+### 🔹 Reaction Energy Modeling Pipeline
 A computational framework for analyzing catalytic reaction pathways and energy profiles using DFT-derived datasets.
 
-🔹 Descriptor-Based Catalysis Screening
-
+### 🔹 Descriptor-Based Catalysis Screening
 Machine learning workflow to predict catalytic performance from structural and electronic descriptors.
 
-🔹 Textile Waste Management
-
-🔹 Charge Transfer Mechanism
-
-🔹 Scientific Visualization Toolkit
-
+### 🔹 Scientific Visualization Toolkit
 Publication-quality figure generation tools for heatmaps, volcano plots, and reaction networks.
-
 
 ---
 
-📈 Research Focus Workflow
+## 📈 Research Focus Workflow
 
-DFT Calculations → Feature Engineering → ML Models → Reaction Prediction → Visualization → Publication  
-  
-Update this with   
-  
-Google Scholar,    
-https://scholar.google.com/citations?user=0BbshI8AAAAJ&hl  
-ORCID   
- https://orcid.org/0000-0003-4265-3600  
-  
-Research Gate  
-https://www.researchgate.net/profile/Kalyan_Dhar  
-  
-Academia   
-https://polimi.academia.edu/KaLyanDhar  
-  
-WordPress  
-https://stectww.wordpress.com/kalyan-kumar-dhar-phd/  
-  
-  
- LInkin profile as well.   
-https://www.linkedin.com/in/onekalyan  
-  
+```text
+DFT Calculations → Feature Engineering → ML Models → Reaction Prediction → Visualization → Publication
