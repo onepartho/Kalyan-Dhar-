@@ -1,4 +1,4 @@
-# Hi, I'm Kalyan Dhar 👋
+# Hi, I'm Kalyan Dhar 
 ### Computational Scientist | Catalysis | Data-Driven Modeling | Scientific ML
 
 ---
@@ -46,9 +46,9 @@ I work at the intersection of **computational chemistry, catalysis, and data sci
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onepartho&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onepartho&layout=compact)
 
 ---
 
@@ -69,3 +69,5 @@ Publication-quality figure generation tools for heatmaps, volcano plots, and rea
 
 ```text
 DFT Calculations → Feature Engineering → ML Models → Reaction Prediction → Visualization → Publication
+problem definition → mechanistic understanding → material/process design → validation → deployment + optimization.
+Problem → EDL physics → Feature engineering → Dataset → ML/DL model → Physics-informed hybrid → Optimization → Experiment → Digital twin
