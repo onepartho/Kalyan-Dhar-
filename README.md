@@ -1,75 +1,176 @@
-# Hi, I'm Kalyan Dhar 
-### Computational Scientist | Catalysis | Data-Driven Modeling | Scientific ML
+Hi, I'm Kalyan Kumar Dhar 👋
+
+Computational Scientist | Catalysis | Scientific Machine Learning | Data-Driven Materials Discovery
 
 ---
 
-## About Me
+<p align="center"><a href="https://scholar.google.com/citations?user=0BbshI8AAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+</a><a href="https://orcid.org/0000-0003-4265-3600">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+</a><a href="https://www.researchgate.net/profile/Kalyan_Dhar">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
+</a><a href="https://polimi.academia.edu/KaLyanDhar">
+<img src="https://img.shields.io/badge/Academia-41454A?style=for-the-badge">
+</a><a href="https://www.linkedin.com/in/onekalyan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><a href="https://stectww.wordpress.com/kalyan-kumar-dhar-phd/">
+<img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</a></p>---
 
-I work at the intersection of **computational chemistry, catalysis, and data science**, focusing on building physically interpretable models for reaction systems and materials design.
+About Me
 
-- 🧪 Research: Heterogeneous catalysis, reaction mechanisms, adsorption energetics  
-- 🧠 Focus: Machine learning for chemical systems & descriptor-based modeling  
-- 📊 Methods: Density Functional Theory (DFT), statistical learning, reaction networks  
-- 💻 Tools: Python, NumPy, pandas, scikit-learn, ASE, RDKit, VASP, LAMMPS  
+I am a computational scientist working at the interface of:
 
----
+- Computational Chemistry
+- Heterogeneous Catalysis
+- Scientific Machine Learning
+- Data-Driven Materials Design
+- Environmental & Water Technologies
 
-## ⚙️ Research Interests
-
-- Catalytic reaction energy landscapes  
-- Descriptor-based materials screening  
-- Data-driven reaction mechanism discovery  
-- Multi-scale modeling of catalytic systems  
-- Scientific visualization for high-impact publications  
-
----
-
-## 🧰 Technical Skills
-
-### Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
-
-### Scientific Computing
-![DFT](https://img.shields.io/badge/DFT-Physics-blue?style=for-the-badge)
-![ASE](https://img.shields.io/badge/Atomic%20Simulation%20Environment-4B8BBE?style=for-the-badge)
-![LAMMPS](https://img.shields.io/badge/LAMMPS-Molecular%20Dynamics-orange?style=for-the-badge)
-
-### Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
+My research focuses on developing physically interpretable models that connect atomistic simulations, reaction energetics, and machine learning for accelerated catalyst and material discovery.
 
 ---
 
-## 📊 GitHub Analytics
+Research Areas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+🧪 Catalytic Reaction Mechanisms
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+⚛️ Density Functional Theory (DFT)
 
----
+📈 Machine Learning for Chemistry
 
-## Featured Projects
+🔬 Descriptor-Based Materials Screening
 
-### 🔹 Reaction Energy Modeling Pipeline
-A computational framework for analyzing catalytic reaction pathways and energy profiles using DFT-derived datasets.
+🌎 Environmental Catalysis
 
-### 🔹 Descriptor-Based Catalysis Screening
-Machine learning workflow to predict catalytic performance from structural and electronic descriptors.
+💧 Textile Wastewater Treatment Technologies
 
-### 🔹 Textile Waste Management 
+🧠 Scientific Artificial Intelligence
 
-### 🔹 Charge Transfer Mechanism 
-
-### 🔹 Scientific Visualization Toolkit
-Publication-quality figure generation tools for heatmaps, volcano plots, and reaction networks.
+📊 High-Impact Scientific Visualization
 
 ---
 
-## 📈 Research Focus Workflow
+Technical Stack
 
-```text
-DFT Calculations → Feature Engineering → ML Models → Reaction Prediction → Visualization → Publication
+Programming
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+"Scikit-Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+"RDKit" (https://img.shields.io/badge/RDKit-Chemoinformatics-green?style=for-the-badge)
+
+---
+
+Computational Chemistry
+
+"VASP" (https://img.shields.io/badge/VASP-DFT-blue?style=for-the-badge)
+"ASE" (https://img.shields.io/badge/ASE-Atomic_Simulation_Environment-blue?style=for-the-badge)
+"LAMMPS" (https://img.shields.io/badge/LAMMPS-Molecular_Dynamics-orange?style=for-the-badge)
+
+---
+
+Visualization
+
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-Scientific_Plots-blue?style=for-the-badge)
+
+"Plotly" (https://img.shields.io/badge/Plotly-Interactive_Dashboards-darkblue?style=for-the-badge)
+
+"Seaborn" (https://img.shields.io/badge/Seaborn-Statistical_Graphics-green?style=for-the-badge)
+
+---
+
+Research Workflow
+
+DFT Simulations
+        ↓
+Feature Engineering
+        ↓
+Machine Learning
+        ↓
+Reaction Prediction
+        ↓
+Interpretability Analysis
+        ↓
+Scientific Visualization
+        ↓
+Publication
+
+Featured Research Projects
+
+Reaction Energy Modeling Pipeline
+
+Computational framework for catalyst reaction pathway analysis using DFT-derived reaction datasets and machine learning.
+
+Descriptor-Based Catalysis Screening
+
+High-throughput catalyst screening platform based on electronic and structural descriptors.
+
+Textile Wastewater Treatment
+
+Sustainable treatment technologies using natural coagulants and advanced environmental materials.
+
+Charge Transfer Mechanisms
+
+Computational investigation of electron transfer phenomena in catalytic systems.
+
+Scientific Visualization Toolkit
+
+Publication-quality visualization tools for:
+
+- Heatmaps
+- Volcano Plots
+- Correlation Networks
+- Energy Landscapes
+- Reaction Coordinate Diagrams
+
+---
+
+GitHub Analytics
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=onepartho &show_icons=true)
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=onepartho)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+Research Profiles
+
+- Google Scholar: https://scholar.google.com/citations?user=0BbshI8AAAAJ&hl=en
+- ORCID: https://orcid.org/0000-0003-4265-3600
+- ResearchGate: https://www.researchgate.net/profile/Kalyan_Dhar
+- Academia: https://polimi.academia.edu/KaLyanDhar
+- LinkedIn: https://www.linkedin.com/in/onekalyan
+- Website: https://stectww.wordpress.com/kalyan-kumar-dhar-phd/
+
+---
+
+Contact
+
+📧 Email: kalyankumar.dhar@polimi.it
+
+---
+
+Support the Projects
+
+If you find my research software, datasets, or scientific tools useful:
+
+⭐ Star the repository
+
+🔔 Follow my GitHub profile
+
+🤝 Connect on LinkedIn
+
+📚 Follow my publications on Google Scholar
+
+---
+
+«Advancing catalyst discovery through physics-informed machine learning and computational science.»
+
+
+![](https://komarev.com/ghpvc/?username=onepartho)
+[![trophy](https://github-profile-trophy.vercel.app/?username=onepartho)](https://github.com/ryo-ma/github-profile-trophy)
