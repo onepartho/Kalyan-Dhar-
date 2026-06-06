@@ -6,7 +6,7 @@
 ## 🔬 About Me
 
 I work at the intersection of **computational chemistry, catalysis, and data science**, focusing on building physically interpretable models for reaction systems and materials design.
----
+
 Research Profile 
 
 <p align="center">
@@ -19,8 +19,25 @@ Research Profile
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
+<a href="https://www.facebook.com/onepartho">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Kalyan_Dhar">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://polimi.academia.edu/KaLyanDhar">
+  <img src="https://img.shields.io/badge/Academia-41454A?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/onekalyan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
----
+
+
 
 - 🧪 Research: Heterogeneous catalysis, reaction mechanisms, adsorption energetics  
 - 🧠 Focus: Machine learning for chemical systems & descriptor-based modeling  
