@@ -1,184 +1,117 @@
-Kalyan Kumar Dhar, Ph.D.
+Hi, I'm Kalyan Dhar
 
-Computational Scientist | Catalysis | Scientific Machine Learning | Data-Driven Materials Discovery
+Computational Scientist | Catalysis | Data-Driven Modeling | Scientific ML
 
-<p align="center"><a href="https://scholar.google.com/citations?user=0BbshI8AAAAJ&hl=en">Google Scholar</a> •
-<a href="https://orcid.org/0000-0003-4265-3600">ORCID</a> •
-<a href="https://www.researchgate.net/profile/Kalyan_Dhar">ResearchGate</a> •
-<a href="https://www.linkedin.com/in/onekalyan">LinkedIn</a> •
-<a href="https://polimi.academia.edu/KaLyanDhar">Academia</a> •
-<a href="https://stectww.wordpress.com/kalyan-kumar-dhar-phd/">Website</a>
 
-</p>---
+---
 
 About Me
 
-I am a computational scientist working at the intersection of:
+I work at the intersection of computational chemistry, catalysis, and data science, focusing on building physically interpretable models for reaction systems and materials design.
 
-- Computational Chemistry
-- Heterogeneous Catalysis
-- Scientific Machine Learning
-- Data-Driven Materials Design
-- Environmental & Water Systems
+🧪 Research: Heterogeneous catalysis, reaction mechanisms, adsorption energetics
 
-My work focuses on developing physically interpretable computational models that connect quantum simulations, reaction energetics, and machine learning for accelerated catalyst and materials discovery.
+🧠 Focus: Machine learning for chemical systems & descriptor-based modeling
 
----
+📊 Methods: Density Functional Theory (DFT), statistical learning, reaction networks
 
-Research Vision
+💻 Tools: Python, NumPy, pandas, scikit-learn, ASE, RDKit, VASP, LAMMPS
 
-Quantum Simulations
-        ↓
-Reaction Energetics
-        ↓
-Descriptor Engineering
-        ↓
-Machine Learning
-        ↓
-Mechanistic Understanding
-        ↓
-Materials Discovery
+
 
 ---
 
-Research Themes
+⚙️ Research Interests
 
-Catalysis & Reaction Engineering
+Catalytic reaction energy landscapes
 
-- Heterogeneous catalysis
-- Surface reaction mechanisms
-- Adsorption energetics
-- Transition-state modeling
-- Reaction network analysis
+Descriptor-based materials screening
 
-Scientific Machine Learning
+Data-driven reaction mechanism discovery
 
-- Physics-informed ML
-- Descriptor-based modeling
-- Explainable AI for chemistry
-- Surrogate models
-- Feature engineering for atomistic systems
+Multi-scale modeling of catalytic systems
 
-Computational Chemistry
+Scientific visualization for high-impact publications
 
-- Density Functional Theory (DFT)
-- Electronic structure analysis
-- Catalyst screening
-- Charge-transfer mechanisms
-- High-throughput workflows
 
-Environmental Applications
-
-- Sustainable catalysis
-- Textile wastewater treatment
-- Natural coagulants
-- Water treatment technologies
 
 ---
 
-Technical Skills
+🧰 Technical Skills
 
 Programming & Data Science
 
-- Python
-- NumPy
-- Pandas
-- Scikit-Learn
-- RDKit
 
-Computational Chemistry
 
-- VASP
-- ASE
-- LAMMPS
+
+
+
+Scientific Computing
+
+
+
+
 
 Visualization
 
-- Matplotlib
-- Plotly
-- Seaborn
+
+
+
+
 
 ---
 
-Research Workflow
+📊 GitHub Analytics
 
-DFT → Feature Engineering → Machine Learning → Prediction → Interpretation → Publication
+
+
+
+
 
 ---
 
 Featured Projects
 
-Reaction Energy Modeling Pipeline
+🔹 Reaction Energy Modeling Pipeline
 
-Physics-informed ML framework for catalytic reaction pathway analysis using DFT data.
+A computational framework for analyzing catalytic reaction pathways and energy profiles using DFT-derived datasets.
 
-Descriptor-Based Catalyst Discovery
+🔹 Descriptor-Based Catalysis Screening
 
-Machine-learning-driven catalyst screening using structural and electronic descriptors.
+Machine learning workflow to predict catalytic performance from structural and electronic descriptors.
 
-Textile Wastewater Treatment Analytics
+🔹 Textile Waste Management
 
-Data-driven optimization of environmental treatment processes.
+🔹 Charge Transfer Mechanism
 
-Charge Transfer Mechanisms
+🔹 Scientific Visualization Toolkit
 
-Electronic structure and charge redistribution studies in catalytic systems.
+Publication-quality figure generation tools for heatmaps, volcano plots, and reaction networks.
 
-Scientific Visualization Toolkit
-
-Publication-quality tools for:
-
-- Heatmaps
-- Volcano plots
-- Reaction energy diagrams
-- Correlation matrices
-- Mechanistic schematics
 
 ---
 
-GitHub Analytics
+📈 Research Focus Workflow
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=onepartho&show_icons=true&theme=default" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onepartho&layout=compact" height="170"/></p>---
-
-Contribution Activity
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=onepartho" /></p>---
-
-Research Profiles
-
-- Google Scholar: https://scholar.google.com/citations?user=0BbshI8AAAAJ&hl=en
-- ORCID: https://orcid.org/0000-0003-4265-3600
-- ResearchGate: https://www.researchgate.net/profile/Kalyan_Dhar
-- Academia: https://polimi.academia.edu/KaLyanDhar
-- LinkedIn: https://www.linkedin.com/in/onekalyan
-- Website: https://stectww.wordpress.com/kalyan-kumar-dhar-phd/
-
----
-
-Open Science Commitment
-
-- Reproducible computational workflows
-- FAIR data principles
-- Open-source scientific tools
-- Transparent ML models for chemistry
-
----
-
-Contact
-
-📧 kalyankumar.dhar@polimi.it
-
----
-
-Support
-
-If my work is useful:
-
-⭐ Star repositories
-🔔 Follow my profile
-🤝 Connect on LinkedIn
-📚 Track publications on Google Scholar
-
----
-
-Advancing catalyst discovery through interpretable scientific machine learning.
+DFT Calculations → Feature Engineering → ML Models → Reaction Prediction → Visualization → Publication  
+  
+Update this with   
+  
+Google Scholar,    
+https://scholar.google.com/citations?user=0BbshI8AAAAJ&hl  
+ORCID   
+ https://orcid.org/0000-0003-4265-3600  
+  
+Research Gate  
+https://www.researchgate.net/profile/Kalyan_Dhar  
+  
+Academia   
+https://polimi.academia.edu/KaLyanDhar  
+  
+WordPress  
+https://stectww.wordpress.com/kalyan-kumar-dhar-phd/  
+  
+  
+ LInkin profile as well.   
+https://www.linkedin.com/in/onekalyan  
+  
