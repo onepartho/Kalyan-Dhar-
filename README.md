@@ -1,9 +1,9 @@
-# Hi, I'm Kalyan Dhar 👋
+# Hi, I'm Kalyan Dhar 
 ### Computational Scientist | Catalysis | Data-Driven Modeling | Scientific ML
 
 ---
 
-## 🔬 About Me
+## About Me
 
 I work at the intersection of **computational chemistry, catalysis, and data science**, focusing on building physically interpretable models for reaction systems and materials design.
 
@@ -52,13 +52,17 @@ I work at the intersection of **computational chemistry, catalysis, and data sci
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 Reaction Energy Modeling Pipeline
 A computational framework for analyzing catalytic reaction pathways and energy profiles using DFT-derived datasets.
 
 ### 🔹 Descriptor-Based Catalysis Screening
 Machine learning workflow to predict catalytic performance from structural and electronic descriptors.
+
+### 🔹 Textile Waste Management 
+
+### 🔹 Charge Transfer Mechanism 
 
 ### 🔹 Scientific Visualization Toolkit
 Publication-quality figure generation tools for heatmaps, volcano plots, and reaction networks.
