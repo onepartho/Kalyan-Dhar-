@@ -57,9 +57,13 @@ Technical Stack
 Programming
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+
 "NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+
 "Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+
 "Scikit-Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+
 "RDKit" (https://img.shields.io/badge/RDKit-Chemoinformatics-green?style=for-the-badge)
 
 ---
@@ -67,18 +71,25 @@ Programming
 Computational Chemistry
 
 "VASP" (https://img.shields.io/badge/VASP-DFT-blue?style=for-the-badge)
+
 "ASE" (https://img.shields.io/badge/ASE-Atomic_Simulation_Environment-blue?style=for-the-badge)
+
 "LAMMPS" (https://img.shields.io/badge/LAMMPS-Molecular_Dynamics-orange?style=for-the-badge)
+
 
 ---
 
 Visualization
 
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-Scientific_Plots-blue?style=for-the-badge)
+"Matplotlib" 
+(https://img.shields.io/badge/Matplotlib-Scientific_Plots-blue?style=for-the-badge)
 
-"Plotly" (https://img.shields.io/badge/Plotly-Interactive_Dashboards-darkblue?style=for-the-badge)
 
-"Seaborn" (https://img.shields.io/badge/Seaborn-Statistical_Graphics-green?style=for-the-badge)
+"Plotly"
+ (https://img.shields.io/badge/Plotly-Interactive_Dashboards-darkblue?style=for-the-badge)
+
+"Seaborn" 
+(https://img.shields.io/badge/Seaborn-Statistical_Graphics-green?style=for-the-badge)
 
 ---
 
@@ -173,4 +184,5 @@ If you find my research software, datasets, or scientific tools useful:
 
 
 ![](https://komarev.com/ghpvc/?username=onepartho)
-[![trophy](https://github-profile-trophy.vercel.app/?username=onepartho)](https://github.com/ryo-ma/github-profile-trophy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=onepartho)](https://github.com/ryo-ma/github-profile-trophy)
